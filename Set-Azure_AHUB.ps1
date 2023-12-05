@@ -11,8 +11,6 @@
  
 #>
 
-　
-　
 $ConnectionName = "AzureRunAsConnection"
 try {
     $ServicePrincipalConnection=Get-AutomationConnection -Name $ConnectionName
