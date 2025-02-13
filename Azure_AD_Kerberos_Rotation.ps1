@@ -1,5 +1,3 @@
-
-
 <#
 -Ensure AD replication is complete before rotation
 -Monitor logs for any authentication issues
